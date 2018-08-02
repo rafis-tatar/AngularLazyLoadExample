@@ -65,6 +65,6 @@ namespace AngularLazyLoadExample
                     spa.UseAngularCliServer(npmScript: "start");
                 }
             });
-        }
+        }Ё
     }
 }
